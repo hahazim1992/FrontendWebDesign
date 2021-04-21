@@ -1,0 +1,177 @@
+body
+{  
+	background: url(images/bg.jpg); 
+	background-attachment: fixed;
+} 
+
+.header
+{
+	font-family: Algerian;
+	font-size: 150px;
+	color: white;
+	text-shadow: 2px 2px 20px red;
+	text-align: center;
+	
+}
+
+.navbarcontainer
+{
+	width: 20%;
+	float: right;
+	height: auto;
+	border: 10px double white;
+	background-color: rgba(250, 0, 0, 0.0);
+	box-shadow: 5px 5px 5px red;
+	margin-left: 1040px;
+	padding: 30px 0px;
+	position: fixed;
+	
+}
+
+.button a
+{
+	border: 3px solid white;
+	box-shadow: 5px 5px 30px red;
+	height: 10%;
+	font-family: Algerian;
+	font-size: 30px;
+	background-color: white;
+	text-decoration: none;
+	padding: 0px 3px;
+	color: black;
+}
+
+.button a:hover
+{
+	box-shadow: 5px 5px 30px green;	
+}
+
+.button a:visited
+{
+	color: black;
+}
+
+.container
+{
+	width: 65%;
+	height: auto;
+	border: 10px double red;
+	background-color: white;
+	box-shadow: 5px 5px 5px white;
+	margin-left: 20px;
+}
+
+.cdcontainer
+{
+	border: 3px solid white;
+	box-shadow: 5px 5px 30px red;
+	height: auto;
+	background-color: white;
+	text-decoration: none;
+	padding: 0px 3px;
+	color: black;
+	font-family: Algerian;
+	font-size: 30px;
+}
+
+.cdtext
+{
+	border-bottom: 5px dashed green;
+}
+
+.number
+{
+	color: red;
+}
+
+.gamba
+{
+	float: left; 
+	margin-right: 15px;
+	padding: 10px 10px 10px 10px;
+	background-color: black;
+	box-shadow: 4px 4px 4px #cecece;
+	width: 300px;
+	height: 400px;
+}
+.gamba3
+{
+	height: 150px;
+	width: 200px
+}
+
+.text
+{
+	border: 0px;
+	font-family: verdana;
+	font-size: 20px;
+	color: #000000;
+	padding: 15px;
+	line-height:30px;
+	text-align: justify;
+}
+
+.text1
+{
+	border: 0px;
+	font-family: verdana;
+	font-size: 15px;
+	color: #000000;
+	padding: 15px;
+	line-height:30px;
+	text-align: justify;
+}
+.tajuk
+{
+	font-family: Castellar;
+	font-size: 50px;
+	
+}
+
+.tajuk1
+{
+	font-family: Consolas;
+	font-size: 40px;
+	font-weight: bold;
+	text-shadow: 2px 2px 3px #1C1C1C;
+}
+
+hr 
+{
+	width: auto;
+	color: black;
+}
+
+.table1
+{
+	border: 3px solid red;
+	width: 650px;
+	height: auto;
+	border-radius: 50px;
+	box-shadow: 4px 4px 4px black;
+	padding: 15px;
+}
+
+.gamba21
+{
+	float: left; 
+	margin-right: 15px;
+	padding: 10px 10px 10px 10px;
+	background-color: black;
+	box-shadow: 4px 4px 4px #cecece;
+	width: 600px;
+	height: 380px;
+}
+
+.footer21
+{
+	font-family: forte;
+	color: black;
+	text-shadow: 2px 2px 5px white;
+	font-size: 50px;
+}
+
+.footer21:hover
+{
+	letter-spacing: 17px;
+}
